@@ -118,7 +118,7 @@ body{
 	height: 2px;
 	background-color: #088178;
 	position: absolute;
-	bottom: -4px;
+	bottom: -4px;	
 	left: 20px;
 }
 
@@ -136,7 +136,7 @@ body{
 	background-image: url('img/hero4.png');
 	height: 90vh;
 	width: 100%;
-	background-size: cover;
+	background-size: cover;	
 	background-position: top 25% right 0;
 	padding: 0 80px;
 	display: flex;
